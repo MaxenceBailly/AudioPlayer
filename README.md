@@ -44,8 +44,8 @@ Application web de gestion et lecture d'audios avec système de playlists et cal
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/VOTRE_USERNAME/audio-player.git
-cd audio-player
+git clone https://github.com/VOTRE_USERNAME/AudioPlayer.git
+cd AudioPlayer
 ```
 
 2. **Installer les dépendances**
@@ -219,7 +219,7 @@ MIT License - Libre d'utilisation
 
 ## 👤 Auteur
 
-Votre Nom - [GitHub](https://github.com/VOTRE_USERNAME)
+Maxence Bailly - [GitHub](https://github.com/MaxenceBailly)
 
 ## 🙏 Remerciements
 
